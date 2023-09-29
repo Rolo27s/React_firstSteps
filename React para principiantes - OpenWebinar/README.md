@@ -14,7 +14,7 @@ Por Álvaro Yuste Torregrosa, Experto en FrontEnd
 * Appearance - Styles
 * Behavior - Logic
 
-Un componente estará generado por estas tres piezas, de modo que sea independiente.
+Un componente estará generado por estas tres partes, de modo que sea independiente.
 La idea es usar diseño atómico, de modo que el componente unitario será considerado un átomo. Este se irá combinando para generar cada vez elementos más complejos hasta llegar a formar la página web completa.
 
 <br>
@@ -31,7 +31,16 @@ En React las subdivisiones principales serán:
 * Funciones flecha
 * Destructuración (Spread operator)
 * Clases y módulos
-* Reconciliación - No visto ####
-* Renderización - No visto ####
+* Reconciliación: Prepara los nodos (VIRTUAL DOM[document fragment])
+* Renderización
 
-*En el codigo JS de import export modulos hay un error de tipo GET sin resolver*
+**Ecosistema de React**
+* React Core
+* React DOM
+* React Router
+* Redux (Control de estados)
+* Formik (Formularios)
+* Jest (Test)
+* Parcel (Empaquetado)
+
+Cada pieza es independiente y podemos decidir cual coger y cual no. A parte de lo mencionado existen muchas más piezas.

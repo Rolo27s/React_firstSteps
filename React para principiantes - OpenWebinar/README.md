@@ -32,6 +32,6 @@ En React las subdivisiones principales serán:
 * Destructuración (Spread operator)
 * Clases y módulos
 * Reconciliación - No visto ####
-* Renderización
+* Renderización - No visto ####
 
-*Volver a las clases de destructuración y clases para estudiar el codigo de ejemplo*
+*En el codigo JS de import export modulos hay un error de tipo GET sin resolver*

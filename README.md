@@ -30,3 +30,6 @@ Como prerequisitos debemos de tener en cuenta
 6. Entramos al directorio del proyecto.
 7. Instalamos las dependencias con **npm install**
 8. Inicializamos el proyecto con **npm run dev**
+
+<hr>
+En la carpeta *React para principiantes* se mostrará como setear un proyecto de React con clean config
